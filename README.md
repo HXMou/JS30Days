@@ -11,3 +11,7 @@ When I was reading [the Front-end developer's roadmap](https://roadmap.sh/fronte
 - querySelector
 - Can not add evetListener to an array, have to use forEach to get every element.
 
+## D02
+
+- When use `transform: rotate(Xdeg)` to rotate an element with X degree in CSS, in default it rotates on the centre middle of that element. ->Fix: use `transform-origin:X%`
+- setInterval(func, delayTime: 重复调用一个函数或执行一个代码片段，在每次调用之间具有固定的时间间隔，单位为毫秒。ex: setInterval(setDate, 1000); 每隔1秒就调用一次函数setDate
